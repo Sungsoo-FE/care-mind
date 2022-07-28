@@ -1,0 +1,18 @@
+.nav_bar {
+  display: flex;
+  font-size: 12px;
+  width: 100%;
+}
+
+.nav_main {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+}
+
+.nav_menu {
+  display: flex;
+  justify-content: space-between;
+  color: black;
+}
