@@ -9,9 +9,9 @@ function App() {
     <div>
       <header className="App-header">
         <NavigationBar />
-        <text style={{ fontSize: fontSize }}>test font</text>
+        {/* <text style={{ fontSize: fontSize }}>test font</text>
         <button onClick={() => setFontSize(fontSize + 1)}>+</button>
-        <button onClick={() => setFontSize(fontSize - 1)}>-</button>
+        <button onClick={() => setFontSize(fontSize - 1)}>-</button> */}
       </header>
     </div>
   );
