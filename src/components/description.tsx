@@ -1,8 +1,4 @@
-import { useState } from "react";
 import "./navigationBar.css";
-import { useMediaQuery } from "react-responsive";
-import { FaBars } from "react-icons/fa";
-import styled from "styled-components";
 
 type FontProps = {
   changedFontSize: Number;
